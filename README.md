@@ -9,3 +9,7 @@ Decided to have a bit of fun by writing a scraper to log all of the conversation
 <img width="712" height="289" alt="image" src="https://github.com/user-attachments/assets/cfaaf20c-84f6-4cb4-b79d-d4aa38e5c57a" />
 
 (Hopefully I don't get banned for ts 🥀)
+
+## To-do
+
+- [ ] Figure out how to cleanly extract the content from the dumped JS object
